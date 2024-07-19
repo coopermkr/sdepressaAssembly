@@ -10,6 +10,9 @@
 module load bwa/0.7.17
 bwa index 
 
+
+
+
 #Align pacbio and nanopore reads against the reference using minimap
 #module load minimap2/2.26+py3.8.12
 
